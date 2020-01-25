@@ -1,0 +1,17 @@
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.deps.json
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.dll
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.pdb
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.csprojAssemblyReference.cache
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.AssemblyInfoInputs.cache
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.AssemblyInfo.cs
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.dll
+C:\Users\arshd\Downloads\ABPatients\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.pdb
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.deps.json
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.dll
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\bin\Debug\netcoreapp2.2\ABClassLibrary.pdb
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.AssemblyInfoInputs.cache
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.AssemblyInfo.cs
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.dll
+C:\Users\arshd\OneDrive\Desktop\ABPatients\ABClassLibrary\obj\Debug\netcoreapp2.2\ABClassLibrary.pdb
